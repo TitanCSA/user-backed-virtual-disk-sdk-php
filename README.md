@@ -1,5 +1,11 @@
 # User-Backed-Virtual-Disk-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use User-Backed-Virtual-Disk-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/user-backed-virtual-disk-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
